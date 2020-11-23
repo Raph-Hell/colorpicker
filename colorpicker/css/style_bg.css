@@ -107,6 +107,12 @@ footer{
     font-family: 'segoe ui';
     background-color: #491358;
 }
+@media (max-width: 1140px){
+    .form-body{
+        width: 40%;
+        background-color: #f8f8f8;
+    }
+}
 @media (max-width: 992px){
     .form-body{
         width: 50%;
